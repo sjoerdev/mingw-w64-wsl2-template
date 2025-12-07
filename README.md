@@ -1,8 +1,6 @@
-# mingw-w64 wsl2 dev enviroment for windows
+# mingw-w64 wsl2 template
 
 ## requirements:
 
-**Debian based WSL system:**
-```
-sudo apt install g++-mingw-w64-x86-64 gcc-mingw-w64-x86-64 make wine
-```
+- have wsl installed
+- inside wsl folow [this](https://www.mingw-w64.org/getting-started/debian/) guide for mingw
